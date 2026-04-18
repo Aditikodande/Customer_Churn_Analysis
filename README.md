@@ -98,6 +98,5 @@ The dataset **WA_Fn-UseC_-Telco-Customer-Churn** includes the following key attr
 
 **Aditi Kodande**
 
-📧 Email: (aditikodande9@gmail.com)
-🔗 LinkedIn: (www.linkedin.com/in/aditi-kodande)
-
+📧 [aditikodande9@gmail.com](mailto:aditikodande9@gmail.com)
+🔗 [https://linkedin.com/in/aditi-kodande](https://linkedin.com/in/aditi-kodande)

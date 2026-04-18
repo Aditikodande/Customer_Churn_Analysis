@@ -79,8 +79,9 @@ The dataset **WA_Fn-UseC_-Telco-Customer-Churn** includes the following key attr
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview 
 
+![Dashboard](my_dashboard.png)
 
 
 ---
@@ -98,7 +99,5 @@ The dataset **WA_Fn-UseC_-Telco-Customer-Churn** includes the following key attr
 **Aditi Kodande**
 
 📧 Email: (aditikodande9@gmail.com)
-🔗 LinkedIn: ()
-💻 GitHub: (
+🔗 LinkedIn: (www.linkedin.com/in/aditi-kodande)
 
----
